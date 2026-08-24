@@ -1,7 +1,7 @@
 <h1 align="center">Bruno Primo</h1>
 
 <p align="center">
-  <strong>Analista de BI & Dados</strong><br>
+  <strong>Assistente de Analista de BI @ LM 2 Rodas</strong><br>
   Transformo dados corporativos dispersos em indicadores confiáveis para decisão.
 </p>
 
@@ -23,11 +23,19 @@
 
 ## 👋 Sobre
 
-Analista de BI e Dados, atuando ponta a ponta: da extração no **SQL Server / TOTVS Protheus** até o dashboard em **Power BI** na mão do gestor.
+Trabalho como **Assistente de Analista de BI na LM 2 Rodas**, onde atuo em todo o ciclo do dado: da extração no **SQL Server** e no **TOTVS Protheus** até o indicador pronto na mão do gestor comercial.
 
-Meu foco é a camada que quase sempre está quebrada nas empresas: **dado confiável**. Duplicidade, inconsistência, regra de negócio que muda de relatório para relatório e query que trava o servidor.
+Na prática, meu dia a dia é:
 
-🎓 Cursando **Ciência de Dados e Inteligência Artificial** no IBMEC — 4º período.
+- escrever e otimizar consultas **T-SQL** sobre a base do Protheus;
+- construir dashboards em **Power BI** e medidas em **DAX** para as áreas comercial e operacional;
+- desenvolver e manter relatórios no **SSRS** e no **Power BI Report Server**;
+- investigar inconsistências, duplicidades e divergências entre sistemas antes que virem decisão errada;
+- automatizar rotinas manuais de extração e conferência que consumiam horas da equipe.
+
+O que me interessa de verdade é a camada que quase sempre está quebrada nas empresas: **dado confiável**. Relatório bonito com número errado não é BI, é risco. Por isso gasto tanto tempo em validação de regra de negócio, reconciliação entre fontes e performance de query — o gestor precisa confiar no número sem precisar conferir no Excel depois.
+
+🎓 Cursando **Ciência de Dados e Inteligência Artificial** no IBMEC — 4º período, aprofundando em engenharia de dados, Python e machine learning aplicado.
 
 ---
 
@@ -62,7 +70,7 @@ Rotinas de extração e carga, integrações via API, ferramentas internas orien
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| **[🧭 Clientes Limbo](https://github.com/BrunoMP22/Clientes-Limbo)** | Prova de conceito para reativação de clientes inativos: score RFV, temperatura comercial, régua de relacionamento e rastreamento de interações. | SQL · BI |
+| **[🧭 Clientes Limbo](https://github.com/BrunoMP22/Clientes-Limbo)** | Prova de conceito para reativação de clientes inativos na LM 2 Rodas: score RFV, temperatura comercial, régua de relacionamento e rastreamento de interações. | SQL · BI |
 | **[⚡ SQL Optimizer](https://github.com/BrunoMP22)** | Análise e otimização de consultas T-SQL em cenários de BI, SSRS e Protheus com grandes volumes. | T-SQL |
 | **[📊 SQL Analytics Lab](https://github.com/BrunoMP22/SQL-Analytics-Lab)** | Laboratório de consultas analíticas: CTEs, funções de janela, agregações e tratamento de dados. | SQL |
 | **[🛒 BMP Commerce](https://github.com/BrunoMP22/BMP-Commerce)** | Sistema comercial explorando desenvolvimento de software e gestão de dados. | Full stack |
