@@ -69,15 +69,6 @@ Rotinas de extração e carga, integrações via API, ferramentas internas orien
 
 ---
 
-## 📈 GitHub
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=BrunoMP22&show_icons=true&hide_border=true&theme=default">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMP22&layout=compact&hide_border=true&theme=default">
-</p>
-
----
-
 ## 🎯 Estudando agora
 
 `SQL Server Performance` · `Data Engineering` · `Python` · `Machine Learning` · `Automação`
