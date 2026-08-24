@@ -39,10 +39,10 @@ Trabalho transformando dados corporativos em indicadores confiáveis para decis�
 
 | Projeto | O que resolve | Stack |
 |---|---|---|
-| **[🧭 	clientes-limbo](https://github.com/BrunoMP22/Clientes-Limbo)** | Reativação de clientes inativos com score RFV, temperatura comercial e régua de relacionamento | SQL · Power BI |
-| **[⚡ osp-sql-otimizer](https://github.com/BrunoMP22)** | Otimização de queries T-SQL que travam em fechamento: sargabilidade, JOINs, índices | T-SQL |
-| **[📊 sql-analytics-lab](https://github.com/BrunoMP22/SQL-Analytics-Lab)** | Consultas analíticas aplicadas: CTEs, funções de janela, agregações | SQL |
-| **[🛒 bmp-commerce](https://github.com/BrunoMP22/BMP-Commerce)** | Sistema comercial — a perspectiva de quem constrói a origem do dado | Full stack |
+| **[🧭 clientes-limbo](https://github.com/BrunoMP22/clientes-limbo-lm2rodas)** | Plataforma de gestão da carteira de clientes parados: classificação por facilidade de contato, régua de e-mail e WhatsApp e acompanhamento de reativação | SQL · Power BI |
+| **[⚡ osp-sql-otimizer](https://github.com/BrunoMP22/osp-sql-otimizer)** | Agente de análise e otimização de queries T-SQL em ambientes de BI, SSRS, Power BI e Protheus — diagnóstico de gargalos reais de performance | T-SQL |
+| **[📊 sql-analytics-lab](https://github.com/BrunoMP22/sql-analytics-lab)** | Consultas analíticas aplicadas: CTEs, funções de janela, agregações | SQL |
+| **[🛒 bmp-commerce](https://github.com/BrunoMP22/bmp-commerce)** | Sistema de gestão comercial multi-tenant — a perspectiva de quem constrói a origem do dado | Full stack |
 
 ## Indicadores do perfil 📈
 
