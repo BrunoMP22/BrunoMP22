@@ -1,61 +1,200 @@
-# Olá! 👋 Eu sou Bruno Primo
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/BrunoMP22">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=BI%20%26%20Data%20Analyst%3BSQL%20Server%20%7C%20Power%20BI%20%7C%20DAX%20%7C%20SSRS%3BTransformando%20dados%20em%20decisao%3BCiencia%20de%20Dados%20e%20IA%20%40%20IBMEC" alt="Typing SVG">
-  </a>
-</p>
+# 👋 Olá, eu sou Bruno Primo
 
-**BI & Data Analyst** · Assistente de Analista de BI · Belo Horizonte, MG 📍
+<a href="https://github.com/BrunoMP22">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=BI+%26+Data+Analyst;SQL+Server+%7C+Power+BI+%7C+DAX+%7C+SSRS;Transformando+dados+em+decis%C3%B5es;Ci%C3%AAncia+de+Dados+e+IA+%40+IBMEC"
+    alt="Typing SVG"
+  />
+</a>
 
-Trabalho transformando dados corporativos em indicadores confiáveis para decisão — da consulta no SQL Server até o dashboard na mão do gestor. Cursando **Ciência de Dados e IA** no IBMEC (4º período), evoluindo de BI para Data Science. 🚀
+📍 **Belo Horizonte, MG — Brasil**
 
-## O que eu faço 💡
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bruno%20Primo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-primo-985a97264)
+[![Email](https://img.shields.io/badge/Email-primobrunin%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:primobrunin@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5538998720369)
 
-- 🔍 Escrevo e otimizo consultas **T-SQL** sobre a base do **TOTVS Protheus**
-- 📊 Construo dashboards em **Power BI** e medidas em **DAX** para as áreas comercial e operacional
-- 📑 Desenvolvo e mantenho relatórios em **SSRS** e **Power BI Report Server**
-- 🧹 Investigo duplicidades, inconsistências e divergências entre sistemas
-- ⚡ Analiso performance de queries: plano de execução, sargabilidade, índices
-- 🤖 Automatizo rotinas de extração, conferência e integração via **API REST**
-- 🌱 Estudando **Python**, **Data Engineering** e **Machine Learning**
-
-## Tecnologias 🛠️
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge)
-![SSRS](https://img.shields.io/badge/SSRS-1F3864?style=for-the-badge)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![TOTVS](https://img.shields.io/badge/TOTVS%20Protheus-00AEEF?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-## Projetos em destaque 🚀
-
-| Projeto | O que resolve | Stack |
-|---|---|---|
-| **[🧭 clientes-limbo](https://github.com/BrunoMP22/clientes-limbo-lm2rodas)** | Plataforma de gestão da carteira de clientes parados: classificação por facilidade de contato, régua de e-mail e WhatsApp e acompanhamento de reativação | SQL · Power BI |
-| **[⚡ osp-sql-otimizer](https://github.com/BrunoMP22/osp-sql-otimizer)** | Agente de análise e otimização de queries T-SQL em ambientes de BI, SSRS, Power BI e Protheus — diagnóstico de gargalos reais de performance | T-SQL |
-| **[📊 sql-analytics-lab](https://github.com/BrunoMP22/sql-analytics-lab)** | Consultas analíticas aplicadas: CTEs, funções de janela, agregações | SQL |
-| **[🛒 bmp-commerce](https://github.com/BrunoMP22/bmp-commerce)** | Sistema de gestão comercial multi-tenant — a perspectiva de quem constrói a origem do dado | Full stack |
-
-## Indicadores do perfil 📈
-
-![Repositórios](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FBrunoMP22&query=%24.public_repos&label=Reposit%C3%B3rios&color=CC2927&style=for-the-badge&logo=github)
-![Seguidores](https://img.shields.io/github/followers/BrunoMP22?label=Seguidores&color=F2C811&style=for-the-badge&logo=github&labelColor=555555)
-![Desde](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FBrunoMP22&query=%24.created_at&label=No%20GitHub%20desde&color=1F3864&style=for-the-badge)
-
-## Vamos conversar 📫
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-primo-985a97264)
-[![Gmail](https://img.shields.io/badge/Gmail-primobrunin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:primobrunin@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5538998720369)
+</div>
 
 ---
 
-<sub><i>Dados confiáveis transformam decisões em resultados.</i></sub>
+## 🧠 Sobre mim
+
+Atuo com **Business Intelligence e Data Analytics**, transformando dados corporativos em informações confiáveis para análise e tomada de decisão.
+
+Minha rotina envolve desde a construção e otimização de consultas em **SQL Server** até o desenvolvimento de indicadores, relatórios e dashboards em **Power BI, DAX e SSRS**.
+
+Também trabalho com investigação de inconsistências, automação de processos, integrações e dados provenientes do **TOTVS Protheus**.
+
+🎓 Atualmente curso **Ciência de Dados e Inteligência Artificial no IBMEC — 4º período**, aprofundando meus conhecimentos em **Python, Data Engineering, Machine Learning e IA**.
+
+---
+
+## ⚡ O que faço no dia a dia
+
+```text
+SQL Server / T-SQL        → consultas, performance e análise de dados
+Power BI / DAX            → dashboards, indicadores e modelagem
+SSRS / Report Server      → relatórios corporativos
+TOTVS Protheus            → extração e análise de dados do ERP
+Data Quality              → inconsistências, duplicidades e validações
+Automação                 → integrações, APIs e rotinas operacionais
+```
+
+---
+
+## 🛠️ Stack
+
+### Data & Business Intelligence
+
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logoColor=black">
+  <img src="https://img.shields.io/badge/SSRS-1F3864?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+</p>
+
+### Desenvolvimento & Automação
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
+
+### Sistemas Corporativos
+
+<p>
+  <img src="https://img.shields.io/badge/TOTVS%20Protheus-00AEEF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/API-REST-58A6FF?style=for-the-badge">
+</p>
+
+---
+
+# 🚀 Projetos em destaque
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧭 [Clientes Limbo](https://github.com/BrunoMP22/clientes-limbo-lm2rodas)
+
+Solução para gestão e reativação de clientes inativos, explorando conceitos de:
+
+- classificação de carteira;
+- régua de relacionamento;
+- priorização comercial;
+- acompanhamento de reativação;
+- análise orientada a dados.
+
+**Stack:** `SQL` `BI` `Analytics`
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ [OSP SQL Optimizer](https://github.com/BrunoMP22/osp-sql-optimizer)
+
+Projeto focado em análise técnica e otimização de consultas **T-SQL** em ambientes de:
+
+- SQL Server;
+- BI;
+- SSRS;
+- Power BI;
+- TOTVS Protheus.
+
+Aborda **sargabilidade, cardinalidade, JOINs, índices e planos de execução**.
+
+**Stack:** `T-SQL` `SQL Server`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📊 [SQL Analytics Lab](https://github.com/BrunoMP22/sql-analytics-lab)
+
+Laboratório para estudo e aplicação prática de SQL analítico:
+
+- CTEs;
+- Window Functions;
+- agregações;
+- tratamento de dados;
+- consultas analíticas;
+- resolução de problemas com dados.
+
+**Stack:** `SQL` `Analytics`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛒 [BMP Commerce](https://github.com/BrunoMP22/bmp-commerce)
+
+Sistema de gestão comercial que complementa minha visão de BI mostrando também a perspectiva de quem constrói os sistemas responsáveis pela geração do dado.
+
+**Stack:** `Python` `Web` `Data`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎓 Formação
+
+### IBMEC — Ciência de Dados e Inteligência Artificial
+
+**4º período · Cursando**
+
+Atualmente aprofundando conhecimentos em:
+
+`Data Science` · `Python` · `Machine Learning` · `Data Engineering` · `Artificial Intelligence`
+
+---
+
+## 📈 Foco técnico atual
+
+```text
+01. SQL Server Performance
+02. Data Analytics
+03. Power BI & DAX
+04. Python
+05. Data Engineering
+06. Machine Learning
+07. Inteligência Artificial aplicada
+```
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+
+![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FBrunoMP22&query=%24.public_repos&label=Reposit%C3%B3rios%20P%C3%BAblicos&color=58A6FF&style=for-the-badge&logo=github)
+
+![Followers](https://img.shields.io/github/followers/BrunoMP22?label=Seguidores&color=238636&style=for-the-badge&logo=github)
+
+</p>
+
+---
+
+<div align="center">
+
+## 🤝 Vamos conversar?
+
+Estou sempre interessado em trocar ideias sobre **BI, SQL, Dados, automação e Inteligência Artificial**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-primo-985a97264)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:primobrunin@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5538998720369)
+
+<br>
+
+> **Dados confiáveis transformam decisões em resultados.**
+
+</div>
