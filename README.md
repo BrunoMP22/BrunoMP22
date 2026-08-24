@@ -6,7 +6,7 @@
   </a>
 </p>
 
-**BI & Data Analyst** · Assistente de Analista de BI na **LM 2 Rodas** · Belo Horizonte, MG 📍
+**BI & Data Analyst** · Assistente de Analista de BI · Belo Horizonte, MG 📍
 
 Trabalho transformando dados corporativos em indicadores confiáveis para decisão — da consulta no SQL Server até o dashboard na mão do gestor. Cursando **Ciência de Dados e IA** no IBMEC (4º período), evoluindo de BI para Data Science. 🚀
 
@@ -39,10 +39,10 @@ Trabalho transformando dados corporativos em indicadores confiáveis para decis�
 
 | Projeto | O que resolve | Stack |
 |---|---|---|
-| **[🧭 Clientes Limbo](https://github.com/BrunoMP22/Clientes-Limbo)** | Reativação de clientes inativos com score RFV, temperatura comercial e régua de relacionamento | SQL · Power BI |
-| **[⚡ SQL Optimizer](https://github.com/BrunoMP22)** | Otimização de queries T-SQL que travam em fechamento: sargabilidade, JOINs, índices | T-SQL |
-| **[📊 SQL Analytics Lab](https://github.com/BrunoMP22/SQL-Analytics-Lab)** | Consultas analíticas aplicadas: CTEs, funções de janela, agregações | SQL |
-| **[🛒 BMP Commerce](https://github.com/BrunoMP22/BMP-Commerce)** | Sistema comercial — a perspectiva de quem constrói a origem do dado | Full stack |
+| **[🧭 	clientes-limbo](https://github.com/BrunoMP22/Clientes-Limbo)** | Reativação de clientes inativos com score RFV, temperatura comercial e régua de relacionamento | SQL · Power BI |
+| **[⚡ osp-sql-otimizer](https://github.com/BrunoMP22)** | Otimização de queries T-SQL que travam em fechamento: sargabilidade, JOINs, índices | T-SQL |
+| **[📊 sql-analytics-lab](https://github.com/BrunoMP22/SQL-Analytics-Lab)** | Consultas analíticas aplicadas: CTEs, funções de janela, agregações | SQL |
+| **[🛒 bmp-commerce](https://github.com/BrunoMP22/BMP-Commerce)** | Sistema comercial — a perspectiva de quem constrói a origem do dado | Full stack |
 
 ## Indicadores do perfil 📈
 
