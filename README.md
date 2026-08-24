@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/BrunoMP22">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=BI%20%26%20Data%20Analyst%20%40%20LM%202%20Rodas%3BSQL%20Server%20%7C%20Power%20BI%20%7C%20DAX%20%7C%20SSRS%3BTransformando%20dados%20em%20decisao%3BCiencia%20de%20Dados%20e%20IA%20%40%20IBMEC" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=BI%20%26%20Data%20Analyst%3BSQL%20Server%20%7C%20Power%20BI%20%7C%20DAX%20%7C%20SSRS%3BTransformando%20dados%20em%20decisao%3BCiencia%20de%20Dados%20e%20IA%20%40%20IBMEC" alt="Typing SVG">
   </a>
 </p>
 
