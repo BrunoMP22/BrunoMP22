@@ -35,21 +35,31 @@ Também trabalho com investigação de inconsistências, automação de processo
 
 ```text
 SQL Server / T-SQL        → consultas, performance e análise de dados
+Oracle / PostgreSQL       → consultas e integrações entre bases heterogêneas
 Power BI / DAX            → dashboards, indicadores e modelagem
 SSRS / Report Server      → relatórios corporativos
 TOTVS Protheus            → extração e análise de dados do ERP
 Data Quality              → inconsistências, duplicidades e validações
 Automação                 → integrações, APIs e rotinas operacionais
+Help Desk                 → atendimento técnico e suporte às áreas de negócio
 ```
 
 ---
 
 ## 🛠️ Stack
 
+### Bancos de Dados
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+
 ### Data & Business Intelligence
 
 <p>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
   <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logoColor=black">
   <img src="https://img.shields.io/badge/SSRS-1F3864?style=for-the-badge">
@@ -69,6 +79,7 @@ Automação                 → integrações, APIs e rotinas operacionais
 
 <p>
   <img src="https://img.shields.io/badge/TOTVS%20Protheus-00AEEF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Help%20Desk-0E9F6E?style=for-the-badge&logo=zendesk&logoColor=white">
   <img src="https://img.shields.io/badge/API-REST-58A6FF?style=for-the-badge">
 </p>
 
