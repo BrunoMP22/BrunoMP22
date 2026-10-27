@@ -99,9 +99,11 @@ Includes a clickable BI panel with filters, a reactivation funnel and CSV export
 
 ### 🛒 [BMP Commerce](https://github.com/BrunoMP22/bmp-commerce)
 
-Multi-tenant sales management system. It complements my BI work by showing the other side: building the systems where business data is born.
+Multi-tenant sales management system with the full cycle: products, customers, point-of-sale with automatic stock updates, an executive dashboard (30-day KPIs vs. previous period) and an **insights engine** that explains the business in plain sentences, each with a suggested action.
 
-**Stack:** `.NET` `React` `Python`
+It complements my BI work by showing the other side: building the systems where business data is born.
+
+**Stack:** `Python` `FastAPI` `React` `TypeScript` `SQLAlchemy`
 
 </td>
 </tr>
