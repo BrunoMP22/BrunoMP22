@@ -4,12 +4,12 @@
 
 <a href="https://github.com/BrunoMP22">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Power+BI+%26+Data+Automation;SQL+%7C+Power+BI+%7C+DAX+%7C+Python;Turning+messy+data+into+clear+dashboards;Available+for+freelance+projects"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+%26+Automation+Intern+%40+Grupo+Prosper;SQL+%7C+Power+BI+%7C+DAX+%7C+Python;Turning+messy+data+into+clear+dashboards;Automating+the+boring+stuff"
     alt="Typing SVG"
   />
 </a>
 
-📍 **Brazil (UTC-3)** · Working with clients in the US and worldwide
+📍 **Belo Horizonte, Brazil (UTC-3)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bruno%20Primo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-primo-985a97264)
 [![Email](https://img.shields.io/badge/Email-primobrunin%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:primobrunin@gmail.com)
@@ -27,6 +27,20 @@ I build **Power BI dashboards** and **Python automations** that pull data from E
 My background is hands-on corporate BI: writing and tuning **T-SQL** queries, building **Power BI / DAX** dashboards and **SSRS** reports, and cleaning up inconsistent data coming from ERP systems (TOTVS Protheus).
 
 🎓 Data Science & Artificial Intelligence student at **IBMEC** (Brazil).
+
+---
+
+## 📌 Currently
+
+**Data & Automation Intern at [Grupo Prosper](https://gprosper.com.br)**, a receivables financing company (Belo Horizonte).
+
+What I've been working on:
+
+- 📄 **Statement automation system**: replaced a manual statement workflow with an automated one, fully documented in the company wiki
+- 📊 **Daily balance sheet automation**: Excel report that used to be copied by hand from a legacy system every day, now fed straight from SQL Server (read-only access)
+- 🧾 **Check reconciliation tool**: web app (`Python` + `React`, running in `Docker`) that compares scanned checks against the operations PDF, replacing one-by-one manual checking
+- 🌐 **Secure remote access**: set up Tailscale so remote employees can reach office-only resources after a traditional VPN didn't work out
+- 📚 **Internal knowledge base**: admin of the company's BookStack wiki, documenting systems and processes
 
 ---
 
@@ -69,10 +83,19 @@ My background is hands-on corporate BI: writing and tuning **T-SQL** queries, bu
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
   <img src="https://img.shields.io/badge/REST%20API-58A6FF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
+
+### Infrastructure & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white">
+  <img src="https://img.shields.io/badge/BookStack-0288D1?style=for-the-badge&logo=bookstack&logoColor=white">
 </p>
 
 ---
@@ -117,6 +140,8 @@ It complements my BI work by showing the other side: building the systems where 
 <br>
 
 Trabalho com **Business Intelligence e automação de dados**: consultas e performance em **SQL Server**, dashboards em **Power BI / DAX**, relatórios em **SSRS**, tratamento de dados do **TOTVS Protheus** e automações em **Python**.
+
+Atualmente sou **estagiário de Dados e Automação no Grupo Prosper** (Belo Horizonte), onde automatizo processos financeiros e operacionais: sistema de extratos, planilha de balanço diário conectada ao SQL Server, ferramenta de conferência de cheques (Python + React + Docker) e acesso remoto seguro com Tailscale.
 
 Curso **Ciência de Dados e Inteligência Artificial no IBMEC**.
 
